@@ -1,0 +1,18 @@
+//
+//  test.pch
+//  test
+//
+//  Created by ys on 15/11/11.
+//  Copyright (c) 2015年 ys. All rights reserved.
+//
+
+#ifndef test_test_pch
+#define test_test_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#define a 19
+#import "TestChildViewController.h"
